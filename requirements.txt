@@ -1,0 +1,9 @@
+Flask==3.0.3
+werkzeug==3.0.3
+python-dotenv==1.0.1
+pypdf==4.2.0
+pinecone-client==5.0.1
+crewai
+langchain
+langchain-community
+flask-cors==4.0.1
